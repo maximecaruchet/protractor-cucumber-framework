@@ -1,6 +1,6 @@
 {
   "name": "protractor-cucumber-framework-sharded-tests",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Protractor framework for Cucumber.js - modified to work with sharded tests - official repository here : https://github.com/protractor-cucumber-framework/protractor-cucumber-framework and here : https://www.npmjs.com/package/protractor-cucumber-framework",
   "main": "index.js",
   "scripts": {
