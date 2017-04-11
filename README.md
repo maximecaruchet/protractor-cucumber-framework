@@ -3,13 +3,17 @@ Protractor Cucumber Framework
 
 [![Build Status](https://travis-ci.org/mattfritz/protractor-cucumber-framework.svg?branch=master)](https://travis-ci.org/mattfritz/protractor-cucumber-framework)
 
+**!! Not the official repository !!** - modified to work with sharded tests - official repositories here :
+[github : https://github.com/protractor-cucumber-framework/protractor-cucumber-framework](https://github.com/protractor-cucumber-framework/protractor-cucumber-framework)
+[npm : https://www.npmjs.com/package/protractor-cucumber-framework](https://www.npmjs.com/package/protractor-cucumber-framework)
+
 This framework was originally part of [angular/protractor](https://github.com/angular/protractor) and
 is now a separate module to decouple [cucumber.js](https://github.com/cucumber/cucumber-js).
 
 Install
 -------
 
-`npm install --save-dev protractor-cucumber-framework`
+`npm install --save-dev protractor-cucumber-framework-sharded-tests`
 
 Implementation
 --------------
